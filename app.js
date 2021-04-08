@@ -1,0 +1,1 @@
+console.log("este es un conosle log para JS en mi primer GIT")
